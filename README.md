@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stdunson
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning React
-- 📫 How to reach me email stdunson5@gmail.com
+- 🌱 I’m currently learning C++
+- 📫 Reach me by emailing stdunson5@gmail.com
 - ⚡ Fun fact: I'm an Orlando Magic fan
