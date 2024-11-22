@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stdunson
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning C++, Data Structures, and SwiftUI
+- 🌱 I’m currently learning C++, Data Structures, Swift, and SwiftUI
 - 📫 Reach me by emailing stdunson5@gmail.com
 - ⚡ Fun fact: I'm an Orlando Magic fan
