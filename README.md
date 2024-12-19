@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Stdunson
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning C++, Data Structures, Swift, and SwiftUI
-- 📫 Reach me by emailing stdunson5@gmail.com
-- ⚡ Fun fact: I'm an Orlando Magic fan
+I'm an honors computer science student at the illustrious Prairie View A&M University.
+I'm from Texas.
+I'm interested in Mobile Development and currently learning Swift, SwiftUI, Javascript, and React Native.
+Go Magic!
