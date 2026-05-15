@@ -3,4 +3,4 @@ Participated in multiple hackathons, including JP Morgan Chase's Data for Good, 
 I have experience with iOS development as well as Web development.
 I have experience with machine learning with PyTorch and TensorFlow.
 Languages I've worked with include Swift, Python, C++, JavaScript, Java, C#, HTML/CSS, SQL.
-Technologies I've worked with include Flask, FastAPI, PyTorch, Tensorflow, SwiftUI, UIKit, React, Docker, Streamlit, Unity, Godot.
+Technologies I've worked with include Flask, FastAPI, PyTorch, Tensorflow, SwiftUI, UIKit, React, Docker, Streamlit, Unity, Godot, GCP, Azure, Scikit-learn.
